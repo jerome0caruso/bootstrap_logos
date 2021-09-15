@@ -1,0 +1,14 @@
+.container {
+    background-color: aliceblue;
+}
+img {
+    max-height: 100px;
+}
+
+.logo-wrapper {
+    border: 1px solid black;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
